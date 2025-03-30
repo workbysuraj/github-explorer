@@ -1,1 +1,2 @@
 # github-explorer
+GitHub Explorer is a React Native app that allows users to search GitHub repositories, view details like stars, forks, and contributors, and save favorites. To run the app, install Node.js, Git, and React Native CLI, then clone the repository using git clone https://github.com/workbysuraj/github-explorer.git or downlod the files and navigate to the project folder with cd github-explorer. Install dependencies using npm install, then start the app with npm start. You can run the app on an Android emulator, physical device, or iOS
